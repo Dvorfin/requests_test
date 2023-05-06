@@ -1,0 +1,810 @@
+{
+    "items": [
+        {
+            "id": "79123411",
+            "premium": false,
+            "name": "Junior верстальщик стажер (удаленно)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 10000,
+                "to": 15000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-10T18:25:49+0300",
+            "created_at": "2023-04-10T18:25:49+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79123411",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79123411?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79123411",
+            "relations": [],
+            "employer": {
+                "id": "5334116",
+                "name": "Board-Msk.ru",
+                "url": "https://api.hh.ru/employers/5334116",
+                "alternate_url": "https://hh.ru/employer/5334116",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5334116",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Профессиональные знания: На высоком уровне: HTML, CSS. Владение Figma на среднем уровне. Понимание адаптивной, кроссбраузерной верстки и кроссплатформенной верстки. ",
+                "responsibility": "В команду ищем Junior верстальщика для помощи на проектах при разработки и поддержки проектов. В свою очередь предлагаем обучение, курирование..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79016460",
+            "premium": false,
+            "name": "Стажер (Intern)-исследователь в области нейронных сетей (Python, LSTM/GRU/RNN)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 20000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-07T02:58:01+0300",
+            "created_at": "2023-04-07T02:58:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79016460",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79016460?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79016460",
+            "relations": [],
+            "employer": {
+                "id": "4434231",
+                "name": "InterGroup",
+                "url": "https://api.hh.ru/employers/4434231",
+                "alternate_url": "https://hh.ru/employer/4434231",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/793046.jpg",
+                    "90": "https://hhcdn.ru/employer-logo/3613071.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/3613072.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4434231",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Важно учесть, что это <highlighttext>стажировка</highlighttext>, и одной из главных целей является получение опыта и знаний, которые могут быть полезными для...",
+                "responsibility": "Качество/точность предсказания не является основным критерием оценки выполнения задания, но <highlighttext>стажер</highlighttext> должен стремиться к наилучшему результату. Стараться уложиться в..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79070778",
+            "premium": false,
+            "name": "Стажер Golang",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 15000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-09T15:23:32+0300",
+            "created_at": "2023-04-09T15:23:32+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79070778",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79070778?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79070778",
+            "relations": [],
+            "employer": {
+                "id": "9731517",
+                "name": "Каран Илья",
+                "url": "https://api.hh.ru/employers/9731517",
+                "alternate_url": "https://hh.ru/employer/9731517",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9731517",
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Интерес к криптосфере. Желание развиваться. Опыт работы с Git, Docker, Postgresql.",
+                "responsibility": "Доработка существующих проектов. Участие в разработке новых. Базовое знание Go, пет-проекты будут плюсом."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79994435",
+            "premium": false,
+            "name": "Младший тестировщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Люблинско-Дмитровская линия",
+                "building": "метро Марьина Роща",
+                "lat": 55.795069,
+                "lng": 37.616485,
+                "description": null,
+                "raw": "Москва, Люблинско-Дмитровская линия, метро Марьина Роща",
+                "metro": null,
+                "metro_stations": [],
+                "id": "4902861"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-02T14:20:43+0300",
+            "created_at": "2023-05-02T14:20:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79994435",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79994435?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79994435",
+            "relations": [],
+            "employer": {
+                "id": "3312",
+                "name": "INPAS",
+                "url": "https://api.hh.ru/employers/3312",
+                "alternate_url": "https://hh.ru/employer/3312",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/108002.png",
+                    "240": "https://hhcdn.ru/employer-logo/1235406.png",
+                    "90": "https://hhcdn.ru/employer-logo/1235405.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3312",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Общие знания ПК. Знание основ тестирования - обязательно. Базовые знания MySQL. Умение работать с технической документацией. Умения понятно и грамотно излагать...",
+                "responsibility": "Работа с внутренней системой автотестирования – редактирование и написание тестовых сценариев, запуск тестовых сценариев. Создание новых проектов для запуска автотестов на..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        },
+        {
+            "id": "79842507",
+            "premium": false,
+            "name": "Стажер (тестировщик) на летний период",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Волгоградский проспект",
+                "building": "42",
+                "lat": 55.705858,
+                "lng": 37.725487,
+                "description": null,
+                "raw": "Москва, Волгоградский проспект, 42",
+                "metro": {
+                    "station_name": "Текстильщики",
+                    "line_name": "Таганско-Краснопресненская",
+                    "station_id": "7.139",
+                    "line_id": "7",
+                    "lat": 55.709211,
+                    "lng": 37.732117
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Текстильщики",
+                        "line_name": "Таганско-Краснопресненская",
+                        "station_id": "7.139",
+                        "line_id": "7",
+                        "lat": 55.709211,
+                        "lng": 37.732117
+                    }
+                ],
+                "id": "3374931"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-26T16:39:05+0300",
+            "created_at": "2023-04-26T16:39:05+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79842507",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79842507?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79842507",
+            "relations": [],
+            "employer": {
+                "id": "2262181",
+                "name": "ГК «ХайТэк»",
+                "url": "https://api.hh.ru/employers/2262181",
+                "alternate_url": "https://hh.ru/employer/2262181",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/3343733.png",
+                    "90": "https://hhcdn.ru/employer-logo/3343732.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/725661.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2262181",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Уверенный пользователь ПК. Представление о тестовых артефактах. Представление о техниках тест-дизайна. Представление о составлений тест-кейсов. Знание Postman (умение...",
+                "responsibility": "Тестирование мобильных клиентов (iOS, Android). Тестирование десктопных клиентов (Win, MacOS, Astra). Тестирование веб (frontend). Анализ документации, требований и написание тест..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79417999",
+            "premium": false,
+            "name": "Стажер в редакцию",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Зорге",
+                "building": "1с1",
+                "lat": 55.778968,
+                "lng": 37.512155,
+                "description": null,
+                "raw": "Москва, улица Зорге, 1с1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "4660328"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-17T17:38:31+0300",
+            "created_at": "2023-04-17T17:38:31+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79417999",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79417999?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79417999",
+            "relations": [],
+            "employer": {
+                "id": "2292",
+                "name": "Эксмо, издательство",
+                "url": "https://api.hh.ru/employers/2292",
+                "alternate_url": "https://hh.ru/employer/2292",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/2258100.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/2258099.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/454033.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2292",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Документы о прохождении практики/<highlighttext>стажировки</highlighttext> для ВУЗа или будущего работодателя (характеристика, рекомендательное письмо). Коммуникабельные, ответственные, так же активные студенты или...",
+                "responsibility": "Проверять чистоту данных в 1С. Загружать готовые фонограммы в архив аудио. Работать с электронными книгами. Заводить карточки продукций 1..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "55",
+                    "name": "Копирайтер, редактор, корректор"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "80001422",
+            "premium": false,
+            "name": "Стажер-разработчик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "улица Маши Порываевой",
+                "building": "34",
+                "lat": 55.772168,
+                "lng": 37.648465,
+                "description": null,
+                "raw": "Москва, улица Маши Порываевой, 34",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12701385"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-05-02T15:51:36+0300",
+            "created_at": "2023-05-02T15:51:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=80001422",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/80001422?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/80001422",
+            "relations": [],
+            "employer": {
+                "id": "2730772",
+                "name": "BestDoctor",
+                "url": "https://api.hh.ru/employers/2730772",
+                "alternate_url": "https://hh.ru/employer/2730772",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/822603.png",
+                    "240": "https://hhcdn.ru/employer-logo/3731300.png",
+                    "90": "https://hhcdn.ru/employer-logo/3731299.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2730772",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы необязателен (но наличие <highlighttext>стажировки</highlighttext>/прохождение практики в <highlighttext>IT</highlighttext>-сфере как преимущество). У тебя хорошие коммуникативные навыки, навыки планирования...",
+                "responsibility": "Разработка ППО на Java, JavaScript (системы регистрации страховых полисов, системы урегулирования убытков). Техническая поддержка 2-го и 3-го уровня..."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79473973",
+            "premium": false,
+            "name": "Программист-стажёр (удалённо)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 17000,
+                "to": 17000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-18T16:35:54+0300",
+            "created_at": "2023-04-18T16:35:54+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79473973",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79473973?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79473973",
+            "relations": [],
+            "employer": {
+                "id": "550175",
+                "name": "Cetera",
+                "url": "https://api.hh.ru/employers/550175",
+                "alternate_url": "https://hh.ru/employer/550175",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/177725.jpg",
+                    "240": "https://hhcdn.ru/employer-logo/999009.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/999008.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=550175",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "У кандидатов на <highlighttext>стажировку</highlighttext> мы ожидаем увидеть базовые знания о работе сети Интернет и веб-серверов, HTML, CSS, PHP, JS...",
+                "responsibility": "Поддержка сайтов наших клиентов: мелкие задачи по верстке, программированию и конфигурированию. Публикация материалов на сайты наших клиентов. Исполнение учебного плана."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "79915446",
+            "premium": false,
+            "name": "Начинающий специалист - стажер по функциональному тестированию, Москва",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-28T12:38:07+0300",
+            "created_at": "2023-04-28T12:38:07+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79915446",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/79915446?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/79915446",
+            "relations": [],
+            "employer": {
+                "id": "6189",
+                "name": "Bell Integrator",
+                "url": "https://api.hh.ru/employers/6189",
+                "alternate_url": "https://hh.ru/employer/6189",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/787767.png",
+                    "90": "https://hhcdn.ru/employer-logo/787766.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/230939.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6189",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Узнаете место тестирования в жизненном цикле ПО. Типы и виды тестирования. - Принципы тестирования. - Изучите основы БД. DDL, DML - операции. ",
+                "responsibility": "ПРОГРАММА ПОДГОТОВКИ: - Жизненный цикл разработки ПО. - Модели разработки ПО. - Рассмотрим Agile роли, артефакты, ритуалы. - Жизненный цикл тестирования. - Тестирование Документации. - "
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "124",
+                    "name": "Тестировщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "probation",
+                "name": "Стажировка"
+            }
+        },
+        {
+            "id": "73822636",
+            "premium": false,
+            "name": "Стажер frontend-разработчик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Николоямская улица",
+                "building": "28/60",
+                "lat": 55.746927,
+                "lng": 37.654727,
+                "description": null,
+                "raw": "Москва, Николоямская улица, 28/60",
+                "metro": {
+                    "station_name": "Таганская",
+                    "line_name": "Кольцевая",
+                    "station_id": "5.76",
+                    "line_id": "5",
+                    "lat": 55.742396,
+                    "lng": 37.653334
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Таганская",
+                        "line_name": "Кольцевая",
+                        "station_id": "5.76",
+                        "line_id": "5",
+                        "lat": 55.742396,
+                        "lng": 37.653334
+                    }
+                ],
+                "id": "878092"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-04-17T01:56:28+0300",
+            "created_at": "2023-04-17T01:56:28+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=73822636",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/73822636?host=hh.ru",
+            "adv_response_url": null,
+            "alternate_url": "https://hh.ru/vacancy/73822636",
+            "relations": [],
+            "employer": {
+                "id": "999442",
+                "name": "amoCRM",
+                "url": "https://api.hh.ru/employers/999442",
+                "alternate_url": "https://hh.ru/employer/999442",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1034062.png",
+                    "240": "https://hhcdn.ru/employer-logo/5757009.png",
+                    "90": "https://hhcdn.ru/employer-logo/5757008.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=999442",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Интенсивная практика по верстке, а также программированию на Javascript . Знакомство с инструментами коммерческой разработки. Базовые знания JavaScript. Pixel-perfect и...",
+                "responsibility": "Работа в команде под присмотром наставника."
+            },
+            "contacts": null,
+            "schedule": null,
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "96",
+                    "name": "Программист, разработчик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            }
+        }
+    ],
+    "found": 2375,
+    "pages": 200,
+    "per_page": 10,
+    "page": 0,
+    "clusters": null,
+    "arguments": null,
+    "alternate_url": "https://hh.ru/search/vacancy?area=1&area=2019&area=232&employment=full&employment=part&employment=probation&enable_snippets=true&experience=noExperience&items_on_page=10&text=python+%D1%81%D1%82%D0%B0%D0%B6%D0%B5%D1%80+OR+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0+IT+OR+%D1%81%D1%82%D0%B0%D0%B6%D0%B5%D1%80+OR+intern"
+}
